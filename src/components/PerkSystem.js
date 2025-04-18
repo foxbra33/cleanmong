@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import fastReloadIcon from '../../assets/inventory images/make-a-fast-reload-icon-for-a-doom-style-shooter-g.png';
+import fastReloadIcon from './placeholder-reload-icon.js'; // Placeholder for missing image
 
 export class PerkSystem {
     constructor(playerController) {
